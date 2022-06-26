@@ -1,4 +1,8 @@
-### Hi there 👋
+
+
+### Hey! I'm @LeoRP-12 (Leonardo Rafael Pires) 👋
+I'm a Machine Learning Engineer from Brazil. 🇧🇷
+
 
 <!--
 **LeoRP-12/LeoRP-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
